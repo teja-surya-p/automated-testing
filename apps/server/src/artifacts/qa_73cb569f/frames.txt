@@ -1,0 +1,15 @@
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-001.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-002.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-003.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-004.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-005.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-006.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-007.png'
+duration 0.6
+file '/Users/surya/Desktop/hackathons/automated-testing/apps/server/src/artifacts/qa_73cb569f/frames/step-007.png'
